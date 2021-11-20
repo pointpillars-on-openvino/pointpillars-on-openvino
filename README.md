@@ -141,7 +141,6 @@ sudo make install
 If this demo stucks at `pcl_object_detection`, please re-generate it, steps as below:
 ```
 cd <your_folder>/pointpillars-on-openvino/lidar-pcl/
-git am *.patch
 mkdir build && cd build && cmake .. && make
 cp pcl_object_detection <your_folder>/OpenPCDet/tools
 ```
