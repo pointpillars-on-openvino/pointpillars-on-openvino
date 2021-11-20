@@ -1,4 +1,4 @@
-# PointPillars on OpenVINO 
+# OpenVINO Optimization for PointPillars
 
 There are 2 demonstrations in the repo. 
 - [Demo of PointPillars Optimization](#demo1) - It demonstrates how to implement and optimize PointPillars on Intel platform by utilizing OpenVINO. The original implementation comes from [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [SmallMunich](https://github.com/SmallMunich/nutonomy_pointpillars). For more technical information, please refer to: https://www.intel.com/content/www/us/en/developer/articles/technical/optimization-of-pointpillars.html.
