@@ -1,3 +1,5 @@
+# This git project has migrated to and been maintained in https://github.com/intel/OpenVINO-optimization-for-PointPillars
+
 # OpenVINO Optimization for PointPillars
 
 There are 2 demonstrations in the repo. 
