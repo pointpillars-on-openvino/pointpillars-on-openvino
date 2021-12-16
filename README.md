@@ -1,4 +1,4 @@
-# This git project has migrated to and been maintained in https://github.com/intel/OpenVINO-optimization-for-PointPillars
+## This git project has migrated to and been maintained in https://github.com/intel/OpenVINO-optimization-for-PointPillars
 
 # OpenVINO Optimization for PointPillars
 
